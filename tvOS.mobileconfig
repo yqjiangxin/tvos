@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>Surge Generated CA F9599D2C</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDcjCCAlqgAwIBAgIQbyIk/CkVtjZaDSK2PE1b1TANBgkqhkiG
+			9w0BAQsFADBMMSQwIgYDVQQKDBtTdXJnZSBHZW5lcmF0ZWQgQ0Eg
+			Rjk1OTlEMkMxJDAiBgNVBAMMG1N1cmdlIEdlbmVyYXRlZCBDQSBG
+			OTU5OUQyQzAeFw0yMjExMTMxMzQyMTRaFw0zMjExMTAxMzQyMTRa
+			MEwxJDAiBgNVBAoMG1N1cmdlIEdlbmVyYXRlZCBDQSBGOTU5OUQy
+			QzEkMCIGA1UEAwwbU3VyZ2UgR2VuZXJhdGVkIENBIEY5NTk5RDJD
+			MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx3fttXMN
+			E8Hr7Rxsn9p9KW538sbY+FOgrdCWdFUdMrHDTwo0AmxtMpeFNbMX
+			GtdhgdTJG0Nf7MzS/Q+A+kpoZb+L6jkj29kuJWHCA8yQAz5rLCwN
+			ZbFWW9tdOD9SmqvynrUglvKtR0+oxSoJ5YOAWKQUAiD34gavMe/2
+			9Umr0BbD1Liw+0XWradDoVHbEKYl1HYrQ0a5v/wrBY3WCDr3qasA
+			wksea5h/YMKRNfvwFBCcNXWfXSZFj7W2/6vB6n+ObLZ9CJGeAwer
+			4h0wdvaeBKWtCdPO6zTQfmoU2tCTAbdSm+7gvFON1t9j+fVkqxzZ
+			91QofksE35gzSzUCLGzXvQIDAQABo1AwTjAdBgNVHQ4EFgQUjJOI
+			DeBetkOvnqdn8xx57TZkiQMwHwYDVR0jBBgwFoAUjJOIDeBetkOv
+			nqdn8xx57TZkiQMwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsF
+			AAOCAQEADaA/lMfXPAScbh7K3r62gyO5vDbhYaUQEXNeAAB4X6dE
+			gFl9D/5N12ioQG00YughNPwnQuTXLf6wG8VJeOImTFVn4wTrz8Og
+			qTm4672ilEajZjUPARscz7xWWJ+80rvb8F9zaTItfF5Lf8KoVkq0
+			bd/QcMHi4tUhvdWFjaiiza03RSilpIltGqBURFDlApsQdDsIF+mz
+			85VRm4jW2nORah05g1xlV+gFg6UM2bOtSm3Dy/vZZiXpa+bTiegI
+			RdNhXezpp0Icc+fksFFU8wXOoRS4xYP/fjA02rvNkjAngqcXstt3
+			5Nofi98KwoZyYCBa/4iWpxOnvN9hH68Gz3P0zA==
+			</data>
+			<key>PayloadDisplayName</key>
+			<string>Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.pkcs1.BA34DB39-C2BF-4D21-B5D9-2ADCAB1FF807</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs1</string>
+			<key>PayloadUUID</key>
+			<string>BA34DB39-C2BF-4D21-B5D9-2ADCAB1FF807</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>Password</key>
+			<string>Jiang528047</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi #1</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.F1CDC03C-57B5-4E3F-8E73-52F6D42AF483</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>F1CDC03C-57B5-4E3F-8E73-52F6D42AF483</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>2233</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>tvOS</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBook-Air.B6A86827-50C4-4D5C-8726-E84A9F3A57C8</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B6A86827-50C4-4D5C-8726-E84A9F3A57C8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>4</integer>
+</dict>
+</plist>
